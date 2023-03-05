@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Made a Break-out game with ASCII Level Loader. 
 
-DO NOT LEAVE IT LIKE THIS!!!
+Also used the switch function in my studio 2 project! That's also in my repo list.
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+:)
